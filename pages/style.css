@@ -94,7 +94,6 @@
 }
 .teleport-show {
   display: flex !important;
-  transform: none !important;
 }
 .accordion-element {
   gap: var(--dl-space-space-unit);
